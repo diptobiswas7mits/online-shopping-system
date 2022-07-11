@@ -42,7 +42,7 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+visit :<a href="http://www.projectswall.com/">Project Demo</a></h2>
 
 # online shopping system advanced
 
