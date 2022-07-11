@@ -60,17 +60,17 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 5. click on new at side navbar.
 
-8. give a database name as (onlineshop) hit on create button.
+6. give a database name as (onlineshop) hit on create button.
 
-9. after creating database name click on import.
+7. after creating database name click on import.
 
-10. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
+8. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
 
-11. open any browser and type http://localhost/online-shopping-system-advanced-master.
+9. open any browser and type http://localhost/online-shopping-system-advanced-master.
 
-12.first register and then login
+10.first register and then login
 
-13. admin login details  Email=admin@gmail.com and Password=123456789.
+11. admin login details  Email=admin@gmail.com and Password=123456789.
 
 ## Screenshots
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-system-advanced/blob/master/screenshot/adduser.png)
